@@ -25,4 +25,4 @@ alhskdjhasj
 
 сегодня работаем с гитхабом
 
-_Control version._
+_Control Test version._
