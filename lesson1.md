@@ -34,3 +34,5 @@ pull
 request
 
 непонятно
+
+add
